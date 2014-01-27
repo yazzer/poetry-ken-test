@@ -3,6 +3,6 @@
 ## Ken Reilly
 
 * Peo
-* Shakespear
+* Will Shakespear
 * Some removed poet
-* Berglund
+* Guy Berglund
