@@ -20,4 +20,5 @@ Another line in for both
 And I hold within my toes
 grains of annoying sand
 
-Add a line for conflict (master)
+Add a line for conflict (master & branch merged manually)
+
