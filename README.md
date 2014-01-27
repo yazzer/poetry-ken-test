@@ -4,3 +4,5 @@
 
 * Peo
 * Shakespear
+* Some removed poet
+* Berglund
